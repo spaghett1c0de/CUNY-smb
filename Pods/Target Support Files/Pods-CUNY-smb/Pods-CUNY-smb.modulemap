@@ -1,0 +1,6 @@
+framework module Pods_CUNY_smb {
+  umbrella header "Pods-CUNY-smb-umbrella.h"
+
+  export *
+  module * { export * }
+}
